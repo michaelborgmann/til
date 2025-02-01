@@ -1,8 +1,31 @@
+<!-- omit from toc -->
 # TIL: Today I Learned
 
 A TIL (Today I Learned) is a brief note capturing something interesting, useful, or technical that you've discovered, typically under 200 words. These insights are too small for a full blog post but too valuable to forget. This repository serves as my personal knowledge base, where I organize and share the small discoveries and tips I pick up along the way. Inspired by other TIL repositories, I’ve transitioned from keeping my notes scattered or private to building this collection, which I plan to grow over time, one TIL at a time.
 
-### Notable TIL Repositories
+📈 1 posts and counting...
+<!-- omit from toc -->
+
+---
+
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Categories](#categories)
+  - [Git](#git)
+- [Notable TIL Repositories](#til-repositories)
+- [License](#license)
+
+<a id="categories"></a>
+## Categories
+
+<a id="git"></a>
+### Git
+
+- [Undo last git commit](git/undo_last_git_commit.md) - 2025-02-01
+
+<a id="til-repositories"></a>
+## Notable TIL Repositories
 
 If you're curious about the origins of this concept or looking for inspiration, check out these great TIL collections:
 
@@ -13,6 +36,7 @@ If you're curious about the origins of this concept or looking for inspiration, 
 * Jake Worth [jwworth/til](https://github.com/jwworth/til)
 * [Today I Learned by Hashrocket](https://til.hashrocket.com)
 
+<a id="license"></a>
 ## License
 
 ### 📜 License for Text (CC BY 4.0)
