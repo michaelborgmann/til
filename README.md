@@ -3,7 +3,7 @@
 
 A TIL (Today I Learned) is a brief note capturing something interesting, useful, or technical that you've discovered, typically under 200 words. These insights are too small for a full blog post but too valuable to forget. This repository serves as my personal knowledge base, where I organize and share the small discoveries and tips I pick up along the way. Inspired by other TIL repositories, I’ve transitioned from keeping my notes scattered or private to building this collection, which I plan to grow over time, one TIL at a time.
 
-📈 2 posts and counting...
+📈 3 posts and counting...
 <!-- omit from toc -->
 
 ---
@@ -13,6 +13,7 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
 - [Table of Contents](#table-of-contents)
 - [Categories](#categories)
   - [Git](#git)
+  - [GitHub](#github)
   - [Homebrew](#homebrew)
 - [Notable TIL Repositories](#til-repositories)
 - [License](#license)
@@ -24,6 +25,11 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
 ### Git
 
 - [Undo last git commit](git/undo_last_git_commit.md) - 2025-02-01
+
+<a id="github"></a>
+### GitHub
+
+- [Sync GitHub and GitLab](github/sync_github_and_gitlab.md) - 2025-02-03
 
 <a id="homebrew"></a>
 ### Homebrew

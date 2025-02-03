@@ -70,7 +70,7 @@ git push origin +dd21ab16^:master
 Alternatively, reset Locally and Force Push:
 
 ```
-git reset HEAD^ --hard  
+git reset HEAD^ --hard
 git push origin -f
 ```
 
