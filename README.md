@@ -16,6 +16,7 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
   - [Git](#git)
   - [GitHub](#github)
   - [Homebrew](#homebrew)
+  - [SwiftUI](#swiftui)
 - [Notable TIL Repositories](#til-repositories)
 - [License](#license)
 
@@ -41,6 +42,11 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
 ### Homebrew
 
 - [Clean & Update Homebrew (brew)](homebrew/clean_and_update.md) - 2025-02-02
+
+<a id="swiftui"></a>
+### SwiftUI
+
+- [Get the size of a SwiftUI view](get_swiftui_view_size.md) - 2025-02-09
 
 <a id="til-repositories"></a>
 ## Notable TIL Repositories
