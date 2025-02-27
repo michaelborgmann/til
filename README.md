@@ -31,6 +31,7 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
 <a id="git"></a>
 ### Git
 
+- [Modifying Git Commit Messages](git/modify_git_commit_messages.md) 2025-02-27
 - [Undo last git commit](git/undo_last_git_commit.md) - 2025-02-01
 
 <a id="github"></a>
@@ -46,7 +47,7 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
 <a id="swiftui"></a>
 ### SwiftUI
 
-- [Get the size of a SwiftUI view](get_swiftui_view_size.md) - 2025-02-09
+- [Get the size of a SwiftUI view](swiftui/get_swiftui_view_size.md) - 2025-02-09
 
 <a id="til-repositories"></a>
 ## Notable TIL Repositories
