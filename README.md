@@ -38,6 +38,7 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
 ### GitHub
 
 - [Sync GitHub and GitLab](github/sync_github_and_gitlab.md) - 2025-02-03
+- [Personal GitHub Profile Repository](github/personal_github_profile_repository.md) - 2025-03-20
 
 <a id="homebrew"></a>
 ### Homebrew
