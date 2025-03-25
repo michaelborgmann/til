@@ -3,7 +3,7 @@
 
 A TIL (Today I Learned) is a brief note capturing something interesting, useful, or technical that you've discovered, typically under 200 words. These insights are too small for a full blog post but too valuable to forget. This repository serves as my personal knowledge base, where I organize and share the small discoveries and tips I pick up along the way. Inspired by other TIL repositories, I’ve transitioned from keeping my notes scattered or private to building this collection, which I plan to grow over time, one TIL at a time.
 
-📈 10 posts and counting...
+📈 11 posts and counting...
 <!-- omit from toc -->
 
 ---
@@ -52,6 +52,7 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
 <a id="python"></a>
 ### Python
 
+- [How to Keep Python Projects Clean with Virtual Environments & Dependencies](python/keep-python-projects-clean-virtual-environments-dependencies.md) - 2025-02-25
 - [Why do python3 and pip3 still exist on macOS?](python/why-do-python3-and-pip3-still-exist-on-macos.md) - 2025-03-23
 
 <a id="ruby"></a>
