@@ -3,7 +3,7 @@
 
 A TIL (Today I Learned) is a brief note capturing something interesting, useful, or technical that you've discovered, typically under 200 words. These insights are too small for a full blog post but too valuable to forget. This repository serves as my personal knowledge base, where I organize and share the small discoveries and tips I pick up along the way. Inspired by other TIL repositories, I’ve transitioned from keeping my notes scattered or private to building this collection, which I plan to grow over time, one TIL at a time.
 
-📈 11 posts and counting...
+📈 12 posts and counting...
 <!-- omit from toc -->
 
 ---
@@ -18,6 +18,7 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
   - [Homebrew](#homebrew)
   - [Python](#python)
   - [Ruby](#ruby)
+  - [SSH](#ssh)
   - [SwiftUI](#swiftui)
 - [Notable TIL Repositories](#til-repositories)
 - [License](#license)
@@ -59,6 +60,11 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
 ### Ruby
 
 - [Updating Ruby & Gems on macOS](ruby/updating-ruby-and-gems-on-macos.md) - 2025-03-22
+
+<a id="ssh"></a>
+### SSH
+
+- [Using SSH for Secure Authentication](ssh/using-ssh-for-secure-authentication.md) - 2025-03-29
 
 <a id="swiftui"></a>
 ### SwiftUI
