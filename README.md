@@ -3,7 +3,7 @@
 
 A TIL (Today I Learned) is a brief note capturing something interesting, useful, or technical that you've discovered, typically under 200 words. These insights are too small for a full blog post but too valuable to forget. This repository serves as my personal knowledge base, where I organize and share the small discoveries and tips I pick up along the way. Inspired by other TIL repositories, I’ve transitioned from keeping my notes scattered or private to building this collection, which I plan to grow over time, one TIL at a time.
 
-📈 17 posts and counting...
+📈 18 posts and counting...
 <!-- omit from toc -->
 
 ---
@@ -16,6 +16,7 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
   - [Git](#git)
   - [GitHub](#github)
   - [Homebrew](#homebrew)
+  - [JavaScript](#javascript)
   - [Node.js](#nodejs)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -52,6 +53,11 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
 ### Homebrew
 
 - [Clean & Update Homebrew (brew)](homebrew/clean_and_update.md) - 2025-02-02
+
+<a id="javascript"></a>
+### JavaScript
+
+- [How to Inspect `[object Object]` in JavaScript](javascript/inspect-object-values-js.md) - 2025-05-26
 
 <a id="nodejs"></a>
 ### Node.js
