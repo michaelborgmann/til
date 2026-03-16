@@ -3,7 +3,7 @@
 
 A TIL (Today I Learned) is a brief note capturing something interesting, useful, or technical that you've discovered, typically under 200 words. These insights are too small for a full blog post but too valuable to forget. This repository serves as my personal knowledge base, where I organize and share the small discoveries and tips I pick up along the way. Inspired by other TIL repositories, I’ve transitioned from keeping my notes scattered or private to building this collection, which I plan to grow over time, one TIL at a time.
 
-📈 21 posts and counting...
+📈 22 posts and counting...
 <!-- omit from toc -->
 
 ---
@@ -88,6 +88,7 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
 
 - [Creating Mini DSLs with `@resultBuilder` in Swift](swift/creating-mini-dsls-with-resultbuilder-in-swift.md) - 2025-04-21
 - [How to Create a Swift Package (SPM)](swift/create-swift-package.md) - 2025-08-28
+- [Formatting & rounding floating-point numbers](swift/format-and-round-floats.md) - 2026-03-16
 
 <a id="swiftui"></a>
 ### SwiftUI
