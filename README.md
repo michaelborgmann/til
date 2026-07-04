@@ -3,7 +3,7 @@
 
 A TIL (Today I Learned) is a brief note capturing something interesting, useful, or technical that you've discovered, typically under 200 words. These insights are too small for a full blog post but too valuable to forget. This repository serves as my personal knowledge base, where I organize and share the small discoveries and tips I pick up along the way. Inspired by other TIL repositories, I’ve transitioned from keeping my notes scattered or private to building this collection, which I plan to grow over time, one TIL at a time.
 
-📈 22 posts and counting...
+📈 23 posts and counting...
 <!-- omit from toc -->
 
 ---
@@ -42,6 +42,7 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
 - [Correct the Author of a Pushed Git Commit](git/correct-author-in-pushed-commit.md) - 2025-04-08
 - [Git Commit Before Pull: Fixing Divergent Branches](git/git-commit-before-pull.md) - 2025-04-14
 - [Git Commit Conventions](git/conventional-commits.md) - 2025-12-01
+- [Amend a Pushed Commit and Update Its Tag](git/amend-pushed-commit-update-tag.md) - 2026-07-04
 
 <a id="github"></a>
 ### GitHub
