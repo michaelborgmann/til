@@ -3,7 +3,7 @@
 
 A TIL (Today I Learned) is a brief note capturing something interesting, useful, or technical that you've discovered, typically under 200 words. These insights are too small for a full blog post but too valuable to forget. This repository serves as my personal knowledge base, where I organize and share the small discoveries and tips I pick up along the way. Inspired by other TIL repositories, I’ve transitioned from keeping my notes scattered or private to building this collection, which I plan to grow over time, one TIL at a time.
 
-📈 24 posts and counting...
+📈 25 posts and counting...
 <!-- omit from toc -->
 
 ---
@@ -89,6 +89,7 @@ A TIL (Today I Learned) is a brief note capturing something interesting, useful,
 ### SSH
 
 - [Using SSH for Secure Authentication](ssh/using-ssh-for-secure-authentication.md) - 2025-03-29
+- [Connect via SSH Without Saving Host Keys](ssh/connect-without-saving-host-keys.md) - 2026-10-15
 
 <a id="swift"></a>
 ### Swift
